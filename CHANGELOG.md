@@ -17,7 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Changed
 
-- Re-licensed from MIT to **BUSL-1.1**, matching the parent project [curtis](https://github.com/JordanNewell/curtis) — the provider layer is vendored from it, so the license travels with the code. Personal and internal business use remains unrestricted; converts to Apache 2.0 four years after each version's first public distribution.
+- Re-licensed from MIT to **BUSL-1.1**, matching the parent project [curtis](https://github.com/curtis-ai-tech/curtis) — the provider layer is vendored from it, so the license travels with the code. Personal and internal business use remains unrestricted; converts to Apache 2.0 four years after each version's first public distribution.
 - `registry/curtis/agent.json`: version bumped to 0.4.1 and the npx distribution target pinned to `curtis-acp@0.4.1`, so registry installs stay in step with npm releases.
 
 ## [0.4.0] — 2026-10-26
@@ -36,5 +36,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - **Mock mode** (`CURTIS_MOCK=1`) for keyless protocol testing — canned streaming, deterministic failure columns, `CURTIS_MOCK_DELAY` for cancel/timeout paths. Protocol self-test in `test/client.mjs` (13 checks over stdio).
 - **Live validation harness** (`test/live.mjs`) — real turns against live providers; a comma-separated model list runs a real arena.
 
-[0.4.1]: https://github.com/JordanNewell/curtis-acp/compare/0.4.0...0.4.1
-[0.4.0]: https://github.com/JordanNewell/curtis-acp/releases/tag/v0.4.0
+[0.4.1]: https://github.com/curtis-ai-tech/curtis-acp/compare/0.4.0...0.4.1
+[0.4.0]: https://github.com/curtis-ai-tech/curtis-acp/releases/tag/v0.4.0
