@@ -30,7 +30,7 @@ Add a custom agent in Zed (`agent_servers` in settings.json — Agent Settings �
 }
 ```
 
-From source instead: `git clone https://github.com/JordanNewell/curtis-acp && npm install && npm run build`, then `"command": "node", "args": ["<repo>/dist/index.js"]`.
+From source instead: `git clone https://github.com/curtis-ai-tech/curtis-acp && npm install && npm run build`, then `"command": "node", "args": ["<repo>/dist/index.js"]`.
 
 Or pick the duel explicitly with `CURTIS_ARENA`:
 
@@ -87,7 +87,7 @@ Done recently: published `curtis-acp@0.4.0` → `0.4.1` on npm and opened the AC
 
 ## License
 
-[BUSL 1.1](LICENSE) — same as [curtis](https://github.com/JordanNewell/curtis); converts to Apache 2.0 four years after each version's first public distribution. The provider layer is vendored from curtis@2.0.0, so the license travels with it. Personal and internal business use is unrestricted; the only restriction is productizing a Curtis substitute.
+[BUSL 1.1](LICENSE) — same as [curtis](https://github.com/curtis-ai-tech/curtis); converts to Apache 2.0 four years after each version's first public distribution. The provider layer is vendored from curtis@2.0.0, so the license travels with it. Personal and internal business use is unrestricted; the only restriction is productizing a Curtis substitute.
 
 ## Layout
 
