@@ -6,7 +6,7 @@
 	"repository": "https://github.com/curtis-ai-tech/curtis-acp",
 	"website": "https://jordannewell.com/curtis",
 	"authors": ["Jordan Newell"],
-	"license": "BUSL-1.1",
+	"license": "MIT",
 	"license_url": "https://github.com/curtis-ai-tech/curtis-acp/blob/main/LICENSE",
 	"distribution": {
 		"npx": {

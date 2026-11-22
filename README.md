@@ -87,7 +87,7 @@ Done recently: published `curtis-acp@0.4.0` → `0.4.1` on npm and opened the AC
 
 ## License
 
-[BUSL 1.1](LICENSE) — same as [curtis](https://github.com/curtis-ai-tech/curtis); converts to Apache 2.0 four years after each version's first public distribution. The provider layer is vendored from curtis@2.0.0, so the license travels with it. Personal and internal business use is unrestricted; the only restriction is productizing a Curtis substitute.
+MIT — Copyright (c) 2026 Jordan Newell (Curtis AI). The per-provider parameter matrix originates from the [curtis](https://github.com/curtis-ai-tech/curtis) provider layer, which remains source-available upstream; this repo is MIT.
 
 ## Layout
 
