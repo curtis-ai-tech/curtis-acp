@@ -10,7 +10,7 @@
 	"license_url": "https://github.com/curtis-ai-tech/curtis-acp/blob/main/LICENSE",
 	"distribution": {
 		"npx": {
-			"package": "curtis-acp@0.4.1",
+			"package": "curtis-acp@0.4.4",
 			"args": []
 		}
 	}

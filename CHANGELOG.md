@@ -13,6 +13,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - Repo CI (GitHub Actions): build + both test suites on Node 18/20/24.
 - `CHANGELOG.md`, `SECURITY.md`.
 
+## [0.4.4] — 2026-11-22
+
+### Changed
+
+- Relicensed from **BUSL-1.1** to **MIT** — this repo is the ACP glue layer, not the product; the parent project [curtis](https://github.com/curtis-ai-tech/curtis) stays source-available upstream. The registry `npx` pin moves to `curtis-acp@0.4.4` in the same step (0.4.1 was pinned because that was the last BUSL artifact).
+
 ## [0.4.1] — 2026-10-26
 
 ### Changed
