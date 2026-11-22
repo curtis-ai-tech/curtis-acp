@@ -30,6 +30,5 @@ client's ACP log (`dev: open acp logs` in Zed).
 
 ## License
 
-curtis-acp is licensed under [BUSL-1.1](LICENSE) (matching the parent project
-[curtis](https://github.com/curtis-ai-tech/curtis)); it converts to Apache 2.0
-four years after each version's first public distribution.
+curtis-acp is licensed under [MIT](LICENSE). The parent project
+[curtis](https://github.com/curtis-ai-tech/curtis) remains source-available (BUSL-1.1).
